@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/welbex-test/static/css/main.eb542837.chunk.css",
+    "main.js": "/welbex-test/static/js/main.c0379e02.chunk.js",
+    "main.js.map": "/welbex-test/static/js/main.c0379e02.chunk.js.map",
+    "runtime-main.js": "/welbex-test/static/js/runtime-main.2186fea6.js",
+    "runtime-main.js.map": "/welbex-test/static/js/runtime-main.2186fea6.js.map",
+    "static/js/2.77709d18.chunk.js": "/welbex-test/static/js/2.77709d18.chunk.js",
+    "static/js/2.77709d18.chunk.js.map": "/welbex-test/static/js/2.77709d18.chunk.js.map",
+    "static/js/3.55e33ea2.chunk.js": "/welbex-test/static/js/3.55e33ea2.chunk.js",
+    "static/js/3.55e33ea2.chunk.js.map": "/welbex-test/static/js/3.55e33ea2.chunk.js.map",
+    "index.html": "/welbex-test/index.html",
+    "static/css/main.eb542837.chunk.css.map": "/welbex-test/static/css/main.eb542837.chunk.css.map",
+    "static/js/2.77709d18.chunk.js.LICENSE.txt": "/welbex-test/static/js/2.77709d18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2186fea6.js",
+    "static/js/2.77709d18.chunk.js",
+    "static/css/main.eb542837.chunk.css",
+    "static/js/main.c0379e02.chunk.js"
+  ]
+}
