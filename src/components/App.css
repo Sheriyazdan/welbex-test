@@ -1,21 +1,23 @@
 .root {
-	background-color: black;
+  background-color: white;
 }
 
 .page {
-	max-width: 1280px;
-	background-color: white;
-	margin: auto;
-	min-height: 100vh;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
+  background-color: white;
+  margin: auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1200px;
 }
 
 .page__title {
-	font-size: 36px;
-	line-height: 1.1;
-	color: black;
-	margin: 0;
+  font-size: 36px;
+  line-height: 1.1;
+  color: black;
+  margin: 0;
+}
+thead {
+  background-color: #4caf50;
 }

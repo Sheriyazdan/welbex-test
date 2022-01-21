@@ -1,26 +1,26 @@
 export const data = [
 	{
-		date: 2005,
+		date: 2002,
 		points: 2,
-		name: 'Marlana',
+		name: 'Giorno',
 		distance: 41
 	},
 	{
-		date: 2007,
+		date: 2008,
 		points: 4,
-		name: 'Bolo',
+		name: 'Jonny',
 		distance: 42
 	},
 	{
-		date: 2020,
+		date: 2022,
 		points: 3,
-		name: 'Richard',
+		name: 'Joestar',
 		distance: 11
 	},
 	{
-		date: 2011,
+		date: 2001,
 		points: 1,
-		name: 'Joan',
+		name: 'David',
 		distance: 13
 	},
 	{
@@ -32,43 +32,43 @@ export const data = [
 	{
 		date: 2018,
 		points: 6,
-		name: 'John',
+		name: 'Michael',
 		distance: 24
 	},
 	{
 		date: 2017,
 		points: 2,
-		name: 'Elizabeth',
+		name: 'Adam',
 		distance: 15
 	},
 	{
 		date: 2016,
 		points: 4,
-		name: 'Sharon',
+		name: 'Sara',
 		distance: 25
 	},
 	{
 		date: 2015,
 		points: 3,
-		name: 'Stacey',
+		name: 'Alice',
 		distance: 30
 	},
 	{
 		date: 2014,
 		points: 3,
-		name: 'George',
+		name: 'Karl',
 		distance: 35
 	},
 	{
 		date: 2018,
 		points: 2,
-		name: 'Dorothy',
+		name: 'Pudge',
 		distance: 33
 	},
 	{
 		date: 2013,
 		points: 1,
-		name: 'Louis',
+		name: 'Mary',
 		distance: 65
 	}
 ];
