@@ -1,6 +1,6 @@
 {
   "name": "welbex-task",
-  "homepage": "https://alex76456.github.io/welbex-task/",
+  "homepage": "https://Sheriyazdan.github.io/welbex-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -42,6 +42,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.2.3"
   }
 }
